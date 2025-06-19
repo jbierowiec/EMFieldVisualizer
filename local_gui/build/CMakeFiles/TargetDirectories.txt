@@ -1,0 +1,3 @@
+/Users/janbierowiec/EMFieldVisualizer/local_gui/build/CMakeFiles/EMFieldVisualizer.dir
+/Users/janbierowiec/EMFieldVisualizer/local_gui/build/CMakeFiles/edit_cache.dir
+/Users/janbierowiec/EMFieldVisualizer/local_gui/build/CMakeFiles/rebuild_cache.dir
